@@ -23,7 +23,7 @@ PRD(Product Requirements Document, 요구사항 문서)는 **"무엇을, 누구�
 4. `README.md`를 쓴다. **첫 줄은 `상태: 초안`이다.**
 5. `열림`은 `questions.md`에 옮긴다.
 6. 사람에게 기능 목록과 AC를 보여 주고 확인을 받는다. 확인을 받으면 첫 줄을 `상태: 합의됨`으로 바꾼다. **AI가 스스로 합의됨으로 바꾸지 않는다.**
-7. 문체는 `docs/WRITING.md`를 따른다.
+7. 문체는 `docs/WRITING.md`를 따른다. 프로젝트에 그 파일이 없으면 이 스킬 폴더의 `references/WRITING.md`를 읽는다.
 
 ## 기능 파일 틀 — `docs/prd/F-01.md`
 

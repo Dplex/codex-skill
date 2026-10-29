@@ -27,7 +27,7 @@ ADR(Architecture Decision Record, 설계 결정 기록)은 **"왜 이렇게 만�
 3. 번호는 이어서 매긴다. 지운 번호는 다시 쓰지 않는다.
 4. 아래 틀로 쓴다. **제목 한 줄만 읽어도 결정을 알 수 있게** 쓴다.
 5. `docs/adr/README.md` 목록 표에 한 줄 더한다.
-6. 문체는 `docs/WRITING.md`를 따른다.
+6. 문체는 `docs/WRITING.md`를 따른다. 프로젝트에 그 파일이 없으면 이 스킬 폴더의 `references/WRITING.md`를 읽는다.
 
 ## 파일 틀 — `docs/adr/0003-orders-reject-duplicate-email.md`
 
