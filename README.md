@@ -24,7 +24,7 @@ grill-me ──▶ adr ──▶ prd ──▶ 구현 ──▶ handoff ──�
 작업 폴더에서 아래를 실행한다.
 
 ```bash
-git clone --depth 1 <이 저장소 URL> /tmp/kit
+git clone --depth 1 https://github.com/Dplex/codex-skill.git /tmp/kit
 cp -r /tmp/kit/AGENTS.md /tmp/kit/.agents /tmp/kit/docs .
 ```
 
